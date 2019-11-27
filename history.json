@@ -1,0 +1,85 @@
+{
+    "history": [
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Recharge",
+            "CreditInfo": 40,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Trip",
+            "CreditInfo": -35,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Trip",
+            "CreditInfo": -1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Recharge",
+            "CreditInfo": 1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Trip",
+            "CreditInfo": -1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Recharge",
+            "CreditInfo": 1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        },
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Trip",
+            "CreditInfo": -1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        } ,
+        {
+            "DateOfExpense": "2016-01-05T09:05:035Z",
+            "Invoice": "Trip",
+            "CreditInfo": -1.0079,
+            "Description": "Detailed Invoice",
+            "PickUp": "Forum Mall",
+            "Destination": "Byg Brewski",
+            "StatusOfTrip": "complete",
+            "ModeOfPayment": "Bool Wallet"
+        }
+
+    ]
+}
